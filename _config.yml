@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -47,12 +47,11 @@ projects:
   # youtube: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Languages
+    web_url: https://youtu.be/dQw4w9WgXcQ?si=7zTpTtyLeXCU-7VW
 
-  - name: Web design
+  - name: Math
+    web_url: http://lordofthegroup.github.io.dev/math.html
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Programming
+    web_url: https://youtu.be/dQw4w9WgXcQ?si=7zTpTtyLeXCU-7VW
