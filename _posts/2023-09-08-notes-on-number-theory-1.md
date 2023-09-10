@@ -3,10 +3,6 @@ layout: post
 title: "Notes on Number Theory ---- Fermat's Dream ---- 1"
 ---
 
-This is a series of blogs about number theory. The main reference is 加藤和也的书.
+## A taste of the power of elliptic curves
 
-Now I'm going to test if $a^2 + b^2 = c^2$ works in this file. 
-
-In this chapter, we investigate rational points on elliptic curves. 
-
-Let $E$ be an elliptic curve over a field $K$. 
+Although Fermat claimed that he had a brilliant idea of how to prove the non-existence of integer solutions of the equation $x^n + y^n = z^n$ for $n\geqslant 3$ in a seemingly arrogant manner, he did give a proof for a simple case of $n = 4$. 
