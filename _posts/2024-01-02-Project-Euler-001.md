@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Project Euler 0001"
+published: true
 ---
 
 Problem Description:
