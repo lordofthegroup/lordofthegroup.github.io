@@ -10,4 +10,8 @@ Solution:
 
 This is a simple application of inclusion-exclusion principle. Suppose $A$ is the set of all the multiples of 3 below 1000 and $B$ is the set of that of 5 below 1000. Then the sum of multiples of 3 or 5 below 1000 is 
 
-$$\sum_{x\in \{A\cup B\}}x$$
+$$\sum_{x\in A\cup B}x = \sum_{a\in A}a + \sum_{b\in B}b - \sum_{c\in A\cap B}c.$$
+
+These three terms are all sums of arithmetic sequences. So the final answer is 
+
+$$\sum_{x\in A\cup B} = $$
